@@ -1,60 +1,55 @@
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
-        int n=version1.size();
-        int m=version2.size();
+        vector<int> ver1, ver2;
         string s;
-        vector<int> ver1;
-        vector<int> ver2;
         int num;
-        for(int i=0;i<n;i++){
-            if(version1[i]!='.'){
-                s+=version1[i];
-            }
-            else{
-                s.erase(0, s.find_first_not_of('0'));
-                if (s.empty()) s = "0";
-                num=stoi(s);
-                s="";
+
+        // Process version1
+        for (char c : version1) {
+            if (c != '.') {
+                s += c;
+            } else {
+                if (s.empty()) s = "0";          // handle empty part
+                num = 0;
+                for (char ch : s) num = num*10 + (ch - '0');  // convert safely
                 ver1.push_back(num);
+                s = "";
             }
         }
-        s.erase(0, s.find_first_not_of('0'));
         if (s.empty()) s = "0";
-        num=stoi(s);
-        s="";
+        num = 0;
+        for (char ch : s) num = num*10 + (ch - '0');
         ver1.push_back(num);
-        for(int i=0;i<m;i++){
-            if(version2[i]!='.'){
-                s+=version2[i];
-            }
-            else{
-                s.erase(0, s.find_first_not_of('0'));
+        s = "";
+
+        // Process version2
+        for (char c : version2) {
+            if (c != '.') {
+                s += c;
+            } else {
                 if (s.empty()) s = "0";
-                num=stoi(s);
-                s="";
+                num = 0;
+                for (char ch : s) num = num*10 + (ch - '0');
                 ver2.push_back(num);
+                s = "";
             }
         }
-        s.erase(0, s.find_first_not_of('0'));
         if (s.empty()) s = "0";
-        num=stoi(s);
-        s="";
+        num = 0;
+        for (char ch : s) num = num*10 + (ch - '0');
         ver2.push_back(num);
-        if(ver1.size()>ver2.size()){
-            for(int i=0;i<(ver1.size()-ver2.size());i++){
-                ver2.push_back(0);
-            }
+
+        // Pad shorter vector with zeros
+        while (ver1.size() < ver2.size()) ver1.push_back(0);
+        while (ver2.size() < ver1.size()) ver2.push_back(0);
+
+        // Compare each revision
+        for (int i = 0; i < ver1.size(); i++) {
+            if (ver1[i] > ver2[i]) return 1;
+            if (ver1[i] < ver2[i]) return -1;
         }
-        else if(ver1.size()<ver2.size()){
-            for(int i=0;i<(ver2.size()-ver1.size());i++){
-                ver1.push_back(0);
-            }
-        }
-        for(int i=0; i<ver1.size(); i++){
-            if(ver1[i] > ver2[i]) return 1;
-            if(ver1[i] < ver2[i]) return -1;
-        }
+
         return 0;
     }
 };
