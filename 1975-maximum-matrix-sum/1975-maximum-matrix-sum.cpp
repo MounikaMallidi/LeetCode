@@ -4,18 +4,19 @@ public:
         int n=matrix.size();
         long long sum=0;
         int cnt=0;
-        int maxi=INT_MIN;
+        int mini=INT_MAX;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 sum+=abs(matrix[i][j]);
                 if(matrix[i][j]<0){
                     cnt++;
                 }
-            }
-            if(cnt>0 && cnt%2!=0){
-                sum-=maxi;
+                mini=min(mini,abs(matrix[i][j]));
             }
         }
+        if(cnt%2!=0){
+            sum-=2*mini;
+         }
         return sum;
     }
 };
