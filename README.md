@@ -12,6 +12,7 @@ Coding Challenges...!
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Coding Challenges...!
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Coding Challenges...!
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
