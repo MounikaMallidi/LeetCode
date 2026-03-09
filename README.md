@@ -17,6 +17,7 @@ Coding Challenges...!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
