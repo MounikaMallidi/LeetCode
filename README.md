@@ -32,6 +32,7 @@ Coding Challenges...!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MounikaMallidi/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -89,6 +90,7 @@ Coding Challenges...!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MounikaMallidi/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Monotonic Stack
@@ -121,6 +123,7 @@ Coding Challenges...!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
