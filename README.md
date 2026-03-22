@@ -14,6 +14,7 @@ Coding Challenges...!
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -99,6 +100,7 @@ Coding Challenges...!
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -137,6 +139,7 @@ Coding Challenges...!
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -170,4 +173,8 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
