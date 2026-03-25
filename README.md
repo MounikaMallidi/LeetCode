@@ -13,6 +13,7 @@ Coding Challenges...!
 | [0084-largest-rectangle-in-histogram](https://github.com/MounikaMallidi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -33,6 +34,7 @@ Coding Challenges...!
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -104,6 +106,7 @@ Coding Challenges...!
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MounikaMallidi/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -197,4 +200,5 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
