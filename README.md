@@ -17,6 +17,7 @@ Coding Challenges...!
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -39,6 +40,7 @@ Coding Challenges...!
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -148,6 +150,7 @@ Coding Challenges...!
 | [0023-merge-k-sorted-lists](https://github.com/MounikaMallidi/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@ Coding Challenges...!
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -203,6 +207,7 @@ Coding Challenges...!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -210,6 +215,7 @@ Coding Challenges...!
 | [0056-merge-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
