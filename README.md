@@ -34,6 +34,7 @@ Coding Challenges...!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Coding Challenges...!
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
