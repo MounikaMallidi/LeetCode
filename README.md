@@ -11,6 +11,7 @@ Coding Challenges...!
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MounikaMallidi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
@@ -57,6 +58,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -127,6 +129,7 @@ Coding Challenges...!
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MounikaMallidi/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
