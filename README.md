@@ -79,6 +79,7 @@ Coding Challenges...!
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -152,6 +153,7 @@ Coding Challenges...!
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MounikaMallidi/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
