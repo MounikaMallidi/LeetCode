@@ -47,6 +47,7 @@ Coding Challenges...!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
@@ -73,6 +74,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MounikaMallidi/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/MounikaMallidi/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
@@ -108,6 +110,7 @@ Coding Challenges...!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -136,6 +139,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0062-unique-paths/) | Medium |
