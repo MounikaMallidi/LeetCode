@@ -74,6 +74,7 @@ Coding Challenges...!
 | [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MounikaMallidi/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/MounikaMallidi/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -142,6 +143,7 @@ Coding Challenges...!
 | [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MounikaMallidi/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0115-distinct-subsequences](https://github.com/MounikaMallidi/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
