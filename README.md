@@ -22,6 +22,7 @@ Coding Challenges...!
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MounikaMallidi/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -159,6 +160,7 @@ Coding Challenges...!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MounikaMallidi/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MounikaMallidi/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -262,6 +264,7 @@ Coding Challenges...!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
