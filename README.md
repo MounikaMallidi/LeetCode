@@ -31,6 +31,7 @@ Coding Challenges...!
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -59,6 +60,7 @@ Coding Challenges...!
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -166,6 +168,7 @@ Coding Challenges...!
 | [0518-coin-change-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
