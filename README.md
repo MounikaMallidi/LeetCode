@@ -42,6 +42,7 @@ Coding Challenges...!
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -90,6 +91,7 @@ Coding Challenges...!
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -174,6 +176,7 @@ Coding Challenges...!
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -207,6 +210,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +245,7 @@ Coding Challenges...!
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -300,6 +305,7 @@ Coding Challenges...!
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
