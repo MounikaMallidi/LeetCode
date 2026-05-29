@@ -48,6 +48,7 @@ Coding Challenges...!
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MounikaMallidi/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -182,6 +183,7 @@ Coding Challenges...!
 | [1092-shortest-common-supersequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MounikaMallidi/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MounikaMallidi/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ Coding Challenges...!
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MounikaMallidi/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
