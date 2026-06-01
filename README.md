@@ -256,6 +256,7 @@ Coding Challenges...!
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -359,6 +360,7 @@ Coding Challenges...!
 | [0543-diameter-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/MounikaMallidi/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
@@ -385,6 +387,7 @@ Coding Challenges...!
 | [0543-diameter-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/MounikaMallidi/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Bucket Sort
@@ -410,6 +413,7 @@ Coding Challenges...!
 | [0199-binary-tree-right-side-view](https://github.com/MounikaMallidi/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -436,5 +440,6 @@ Coding Challenges...!
 | [0257-binary-tree-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
