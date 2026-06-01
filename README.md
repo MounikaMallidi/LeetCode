@@ -360,6 +360,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/MounikaMallidi/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/MounikaMallidi/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
