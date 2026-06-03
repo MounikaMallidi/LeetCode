@@ -21,6 +21,7 @@ Coding Challenges...!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MounikaMallidi/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -82,6 +83,7 @@ Coding Challenges...!
 | [0063-unique-paths-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -473,6 +475,7 @@ Coding Challenges...!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MounikaMallidi/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -505,6 +508,7 @@ Coding Challenges...!
 | [0144-binary-tree-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MounikaMallidi/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -524,6 +528,7 @@ Coding Challenges...!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
