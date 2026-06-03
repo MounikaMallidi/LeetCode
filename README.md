@@ -47,6 +47,7 @@ Coding Challenges...!
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -87,6 +88,7 @@ Coding Challenges...!
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
@@ -486,6 +488,7 @@ Coding Challenges...!
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MounikaMallidi/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
