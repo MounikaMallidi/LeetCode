@@ -36,6 +36,7 @@ Coding Challenges...!
 | [0494-target-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -86,6 +87,7 @@ Coding Challenges...!
 | [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -197,6 +199,7 @@ Coding Challenges...!
 | [0494-target-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -482,6 +485,7 @@ Coding Challenges...!
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
