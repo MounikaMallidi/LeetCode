@@ -496,6 +496,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -538,6 +539,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -559,4 +561,9 @@ Coding Challenges...!
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
