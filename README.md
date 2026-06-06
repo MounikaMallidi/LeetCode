@@ -55,6 +55,7 @@ Coding Challenges...!
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -95,6 +96,7 @@ Coding Challenges...!
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
@@ -506,6 +508,7 @@ Coding Challenges...!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MounikaMallidi/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
