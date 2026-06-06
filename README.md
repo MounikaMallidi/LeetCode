@@ -213,6 +213,7 @@ Coding Challenges...!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
@@ -264,6 +265,7 @@ Coding Challenges...!
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -507,6 +509,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -554,6 +557,7 @@ Coding Challenges...!
 | [0662-maximum-width-of-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -580,6 +584,7 @@ Coding Challenges...!
 | [0210-course-schedule-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -587,4 +592,8 @@ Coding Challenges...!
 | [0207-course-schedule](https://github.com/MounikaMallidi/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MounikaMallidi/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
