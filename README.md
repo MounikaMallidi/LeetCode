@@ -62,6 +62,7 @@ Coding Challenges...!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MounikaMallidi/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/MounikaMallidi/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
@@ -99,6 +100,7 @@ Coding Challenges...!
 | [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MounikaMallidi/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@ Coding Challenges...!
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ Coding Challenges...!
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -509,6 +513,7 @@ Coding Challenges...!
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MounikaMallidi/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -553,6 +558,7 @@ Coding Challenges...!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MounikaMallidi/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -566,6 +572,7 @@ Coding Challenges...!
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MounikaMallidi/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
