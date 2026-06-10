@@ -292,6 +292,7 @@ Coding Challenges...!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/MounikaMallidi/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
@@ -322,6 +323,7 @@ Coding Challenges...!
 | [0025-reverse-nodes-in-k-group](https://github.com/MounikaMallidi/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
