@@ -318,6 +318,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MounikaMallidi/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
