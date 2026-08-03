@@ -27,6 +27,7 @@ Coding Challenges...!
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MounikaMallidi/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/MounikaMallidi/LeetCode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -94,6 +95,7 @@ Coding Challenges...!
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/MounikaMallidi/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/MounikaMallidi/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
@@ -175,6 +177,7 @@ Coding Challenges...!
 | [0232-implement-queue-using-stacks](https://github.com/MounikaMallidi/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/MounikaMallidi/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -353,6 +356,7 @@ Coding Challenges...!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
