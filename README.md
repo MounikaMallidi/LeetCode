@@ -25,6 +25,7 @@ Coding Challenges...!
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/MounikaMallidi/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -356,6 +357,7 @@ Coding Challenges...!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/MounikaMallidi/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/MounikaMallidi/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
