@@ -140,6 +140,7 @@ Coding Challenges...!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/MounikaMallidi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MounikaMallidi/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MounikaMallidi/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -284,6 +285,7 @@ Coding Challenges...!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/MounikaMallidi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
