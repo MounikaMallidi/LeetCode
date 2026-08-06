@@ -19,6 +19,7 @@ Coding Challenges...!
 | [0120-triangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MounikaMallidi/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/MounikaMallidi/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MounikaMallidi/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -299,6 +300,7 @@ Coding Challenges...!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/MounikaMallidi/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -607,6 +609,7 @@ Coding Challenges...!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/MounikaMallidi/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/MounikaMallidi/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
