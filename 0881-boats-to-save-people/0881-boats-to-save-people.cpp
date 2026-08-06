@@ -5,13 +5,15 @@ public:
         int left=0,right=people.size()-1;
         int boat=0;
         while(left<=right){
-            while(left<right && people[left]+people[right]>limit){
+            if(left<right && people[left]+people[right]>limit){
                 boat++;
                 right--;
             }
-            boat++;
-            left++;
-            right--;
+            else{
+                boat++;
+                left++;
+                right--;
+            }
         }
         return boat;
 
