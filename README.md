@@ -6,6 +6,7 @@ Coding Challenges...!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -297,6 +298,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
