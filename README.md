@@ -8,6 +8,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -284,6 +285,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -417,6 +419,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
