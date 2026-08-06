@@ -26,6 +26,7 @@ Coding Challenges...!
 | [0128-longest-consecutive-sequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/MounikaMallidi/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MounikaMallidi/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0200-number-of-islands](https://github.com/MounikaMallidi/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
@@ -280,6 +281,7 @@ Coding Challenges...!
 | [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -371,6 +373,7 @@ Coding Challenges...!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
