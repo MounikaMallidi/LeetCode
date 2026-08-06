@@ -16,6 +16,7 @@ Coding Challenges...!
 | [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MounikaMallidi/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -275,6 +276,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -399,6 +401,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
