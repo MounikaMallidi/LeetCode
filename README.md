@@ -10,6 +10,7 @@ Coding Challenges...!
 | [0015-3sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0036-valid-sudoku](https://github.com/MounikaMallidi/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
@@ -107,6 +108,7 @@ Coding Challenges...!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/MounikaMallidi/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0063-unique-paths-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -328,6 +330,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MounikaMallidi/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/MounikaMallidi/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
