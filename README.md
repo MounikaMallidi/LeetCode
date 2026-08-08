@@ -54,6 +54,7 @@ Coding Challenges...!
 | [0542-01-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MounikaMallidi/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0706-design-hashmap](https://github.com/MounikaMallidi/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -268,6 +269,7 @@ Coding Challenges...!
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -303,6 +305,7 @@ Coding Challenges...!
 | [0344-reverse-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/MounikaMallidi/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
@@ -317,6 +320,7 @@ Coding Challenges...!
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/MounikaMallidi/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MounikaMallidi/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -398,6 +402,7 @@ Coding Challenges...!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
@@ -439,6 +444,7 @@ Coding Challenges...!
 | [0368-largest-divisible-subset](https://github.com/MounikaMallidi/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MounikaMallidi/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/MounikaMallidi/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/MounikaMallidi/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
