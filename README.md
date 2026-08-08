@@ -140,6 +140,7 @@ Coding Challenges...!
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MounikaMallidi/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -264,6 +265,7 @@ Coding Challenges...!
 | [0076-minimum-window-substring](https://github.com/MounikaMallidi/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -297,6 +299,7 @@ Coding Challenges...!
 | [0189-rotate-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/MounikaMallidi/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -343,6 +346,7 @@ Coding Challenges...!
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MounikaMallidi/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MounikaMallidi/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/MounikaMallidi/LeetCode/tree/main/0706-design-hashmap/) | Easy |
