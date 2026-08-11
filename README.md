@@ -30,6 +30,7 @@ Coding Challenges...!
 | [0128-longest-consecutive-sequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/MounikaMallidi/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/MounikaMallidi/LeetCode/tree/main/0135-candy/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MounikaMallidi/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MounikaMallidi/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -170,6 +171,7 @@ Coding Challenges...!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MounikaMallidi/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MounikaMallidi/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/MounikaMallidi/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/MounikaMallidi/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -428,6 +430,7 @@ Coding Challenges...!
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MounikaMallidi/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MounikaMallidi/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/MounikaMallidi/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
