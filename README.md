@@ -67,6 +67,7 @@ Coding Challenges...!
 | [0739-daily-temperatures](https://github.com/MounikaMallidi/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/MounikaMallidi/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/MounikaMallidi/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/MounikaMallidi/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/MounikaMallidi/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -183,6 +184,7 @@ Coding Challenges...!
 | [0682-baseball-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/MounikaMallidi/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/MounikaMallidi/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/MounikaMallidi/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/MounikaMallidi/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -294,6 +296,7 @@ Coding Challenges...!
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/MounikaMallidi/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/MounikaMallidi/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/MounikaMallidi/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/MounikaMallidi/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -460,6 +463,7 @@ Coding Challenges...!
 | [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/MounikaMallidi/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/MounikaMallidi/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/MounikaMallidi/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/MounikaMallidi/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
