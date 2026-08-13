@@ -144,6 +144,7 @@ Coding Challenges...!
 | [0257-binary-tree-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MounikaMallidi/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -178,6 +179,7 @@ Coding Challenges...!
 | [0173-binary-search-tree-iterator](https://github.com/MounikaMallidi/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/MounikaMallidi/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MounikaMallidi/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/MounikaMallidi/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -195,6 +197,7 @@ Coding Challenges...!
 | [0021-merge-two-sorted-lists](https://github.com/MounikaMallidi/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/MounikaMallidi/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0394-decode-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
