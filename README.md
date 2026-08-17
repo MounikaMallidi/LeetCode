@@ -10,6 +10,7 @@ Coding Challenges...!
 | [0015-3sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/MounikaMallidi/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/MounikaMallidi/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MounikaMallidi/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MounikaMallidi/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -423,6 +424,7 @@ Coding Challenges...!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/MounikaMallidi/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
