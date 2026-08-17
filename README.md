@@ -91,6 +91,7 @@ Coding Challenges...!
 | [1043-partition-array-for-maximum-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MounikaMallidi/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/MounikaMallidi/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MounikaMallidi/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -455,6 +456,7 @@ Coding Challenges...!
 | [0981-time-based-key-value-store](https://github.com/MounikaMallidi/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MounikaMallidi/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
@@ -798,6 +800,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MounikaMallidi/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -810,4 +813,8 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/MounikaMallidi/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
