@@ -39,6 +39,7 @@ Coding Challenges...!
 | [0213-house-robber-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MounikaMallidi/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MounikaMallidi/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -369,6 +370,7 @@ Coding Challenges...!
 | [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MounikaMallidi/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -451,6 +453,7 @@ Coding Challenges...!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/MounikaMallidi/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MounikaMallidi/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -463,6 +466,7 @@ Coding Challenges...!
 | [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MounikaMallidi/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/MounikaMallidi/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -753,4 +757,8 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0895-maximum-frequency-stack](https://github.com/MounikaMallidi/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
