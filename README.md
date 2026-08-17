@@ -425,6 +425,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/MounikaMallidi/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/MounikaMallidi/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -450,6 +451,7 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MounikaMallidi/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/MounikaMallidi/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/MounikaMallidi/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MounikaMallidi/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -770,4 +772,8 @@ Coding Challenges...!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MounikaMallidi/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/MounikaMallidi/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
