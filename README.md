@@ -60,6 +60,7 @@ Coding Challenges...!
 | [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0682-baseball-game](https://github.com/MounikaMallidi/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/MounikaMallidi/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/MounikaMallidi/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MounikaMallidi/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/MounikaMallidi/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -427,6 +428,7 @@ Coding Challenges...!
 | [0222-count-complete-tree-nodes](https://github.com/MounikaMallidi/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MounikaMallidi/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/MounikaMallidi/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/MounikaMallidi/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
