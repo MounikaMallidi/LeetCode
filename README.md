@@ -81,6 +81,7 @@ Coding Challenges...!
 | [0994-rotting-oranges](https://github.com/MounikaMallidi/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MounikaMallidi/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MounikaMallidi/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/MounikaMallidi/LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/MounikaMallidi/LeetCode/tree/main/1048-longest-string-chain/) | Medium |
@@ -439,6 +440,7 @@ Coding Challenges...!
 | [0704-binary-search](https://github.com/MounikaMallidi/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MounikaMallidi/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MounikaMallidi/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MounikaMallidi/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MounikaMallidi/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2498-frog-jump-ii](https://github.com/MounikaMallidi/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
