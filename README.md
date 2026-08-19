@@ -214,6 +214,7 @@ Coding Challenges...!
 | [0021-merge-two-sorted-lists](https://github.com/MounikaMallidi/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/MounikaMallidi/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -424,6 +425,7 @@ Coding Challenges...!
 | [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/MounikaMallidi/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0706-design-hashmap](https://github.com/MounikaMallidi/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Doubly-Linked List
