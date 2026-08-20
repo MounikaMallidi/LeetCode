@@ -17,47 +17,25 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL) return NULL;
-
-        Node* temp = head;
-
-        // Step 1: Insert copy nodes
-        while(temp) {
-            Node* copy = new Node(temp->val);
-
-            copy->next = temp->next;
-            temp->next = copy;
-
-            temp = copy->next;
+        if(head==NULL){
+            return NULL;
         }
-
-        // Step 2: Set random pointers
-        temp = head;
-
-        while(temp) {
-            if(temp->random)
-                temp->next->random = temp->random->next;
-
-            temp = temp->next->next;
+        unordered_map<Node*,Node*> mp;
+        Node* curr=head;
+        while(curr!=NULL){
+            mp[curr]=new Node(curr->val);
+            curr=curr->next;
         }
-
-        // Step 3: Separate the lists
-        Node* dummy = new Node(0);
-        Node* copyTail = dummy;
-
-        temp = head;
-
-        while(temp) {
-            Node* copy = temp->next;
-
-            temp->next = copy->next;
-
-            copyTail->next = copy;
-            copyTail = copy;
-
-            temp = temp->next;
+        curr=head;
+        while(curr!=NULL){
+            if(curr->next!=NULL){
+                mp[curr]->next=mp[curr->next];
+            }
+            if(curr->random!=NULL){
+                mp[curr]->random=mp[curr->random];
+            }
+            curr=curr->next;
         }
-
-        return dummy->next;
+        return mp[head];
     }
 };
