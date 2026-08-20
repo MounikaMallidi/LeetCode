@@ -188,6 +188,7 @@ Coding Challenges...!
 | [0085-maximal-rectangle](https://github.com/MounikaMallidi/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MounikaMallidi/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MounikaMallidi/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -215,6 +216,7 @@ Coding Challenges...!
 | [0021-merge-two-sorted-lists](https://github.com/MounikaMallidi/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/MounikaMallidi/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/MounikaMallidi/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/MounikaMallidi/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MounikaMallidi/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -336,6 +338,7 @@ Coding Challenges...!
 | [0088-merge-sorted-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MounikaMallidi/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/MounikaMallidi/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MounikaMallidi/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MounikaMallidi/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -428,6 +431,7 @@ Coding Challenges...!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MounikaMallidi/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MounikaMallidi/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/MounikaMallidi/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MounikaMallidi/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
